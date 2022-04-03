@@ -1,13 +1,18 @@
 {
-	"development": [
-		{
-			"name": "Universal .gitignore",
-			"version": "1.0.0",
-			"author": "Sh1d0w",
-			"repository": "https://github.com/Sh1d0w/global-gitignore",
-			"branch": "main",
-			"description": "The package provides universal gitignore for most languages and tools",
-			"preview": "https://github.com/Sh1d0w/global-gitignore/blob/main/gitignore.png?raw=true"
-		}
-	]
+	"name": "Main marketplace",
+	"repository": "https://github.com/Sh1d0w/marketplace.git",
+	"packages": {
+		"development": [
+			{
+				"name": "universal-gitignore",
+				"displayName": "Universal .gitignore",
+				"version": "1.0.0",
+				"author": "Sh1d0w",
+				"repository": "https://github.com/Sh1d0w/global-gitignore",
+				"branch": "main",
+				"description": "The package provides universal gitignore for most languages and tools",
+				"preview": "https://github.com/Sh1d0w/global-gitignore/blob/main/gitignore.png?raw=true"
+			}
+		]
+	}
 }
