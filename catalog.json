@@ -5,7 +5,7 @@
 			"version": "1.0.0",
 			"author": "Sh1d0w",
 			"repository": "https://github.com/Sh1d0w/global-gitignore",
-			"commit": "9ed8f140dac948706c7833f7a452a6d504bdc1fa",
+			"commit": "e93429c0ff94f6cf9cbcf51fda8c47beec055965",
 			"description": "The package provides universal gitignore for most languages and tools",
 			"preview": "https://github.com/Sh1d0w/global-gitignore/blob/main/gitignore.png?raw=true"
 		}
